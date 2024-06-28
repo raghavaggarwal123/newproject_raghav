@@ -17,6 +17,9 @@ body {
     margin-bottom: 2rem;
     padding: 50px;
     border-radius: 0%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
 .work-with-me_row2 {
