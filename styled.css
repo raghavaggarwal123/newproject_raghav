@@ -1,0 +1,59 @@
+.WORK-WITH-ME_row1 {
+    display: flex;
+    background-color: black;
+    color: red;
+    padding: 0 100px 0 100px;
+    font: xx-large;
+    gap: 100px;
+    justify-content: space-between;
+}
+
+body {
+    background-color: rgb(179, 179, 179);
+}
+
+.image {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 50px;
+    border-radius: 0%;
+}
+
+.work-with-me_row2 {
+
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+}
+
+.work-with-me_row3 {
+    color: black;
+    text-align: center;
+    font: bold;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    size: 100px;
+}
+
+.section {
+    color: black;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.section2 {
+    color: black;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+}
